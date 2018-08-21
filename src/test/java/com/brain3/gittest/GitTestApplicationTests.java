@@ -17,6 +17,10 @@ public class GitTestApplicationTests {
 
 
 		System.out.println("git test! develop change");
+		System.out.println("zhang3 test!why git so complicated!");
+
+		System.out.println("li4 test!");
+		System.out.println("I am wang");
 	}
 
 }
