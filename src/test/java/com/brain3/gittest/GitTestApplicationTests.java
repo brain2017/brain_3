@@ -12,7 +12,7 @@ public class GitTestApplicationTests {
 	@Test
 	public void contextLoads() {
 		System.out.println("git test! develop change");
-		System.out.println("zhang3 test!");
+		System.out.println("zhang3 test!why git so complicated!");
 
 		System.out.println("li4 test!");
 	}
