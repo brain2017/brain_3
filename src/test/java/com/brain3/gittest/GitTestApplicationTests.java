@@ -11,7 +11,7 @@ public class GitTestApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("git test!");
+		System.out.println("git test! develop change");
 	}
 
 }
