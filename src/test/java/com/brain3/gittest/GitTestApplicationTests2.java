@@ -7,16 +7,11 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class GitTestApplicationTests {
+public class GitTestApplicationTests2 {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("git test!");
-
-
-
-
-		System.out.println("git test! develop change");
+		System.out.println("git test222222!");
 	}
 
 }
